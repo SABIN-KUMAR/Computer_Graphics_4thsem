@@ -71,7 +71,7 @@ int main()
 		{
 			if(p<0)
 			{
-				x=x;
+			    x=x;
 			    y=y+ly;
 			    p=p+2*dx;
 			
