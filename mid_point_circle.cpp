@@ -14,7 +14,7 @@ int main()
 	printf("Enter the Radius of Circle:");
 	scanf("%f",&rad);
 	y=rad;
-	d=1-rad;
+	d=5/4-rad;
 	
 	for(x=0;x<y;x++)
 	{
